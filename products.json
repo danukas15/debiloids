@@ -1,0 +1,29 @@
+{
+	"breakfast": [
+		"Kiausiniene",
+		"Kiausinis",
+		"Avokadas",
+		"Bananas",
+		"Jogurtas",
+		"Sausi pusryciai",
+		"Blynai"
+	],
+	"snack": [
+		"Riesutai",
+		"Jogurtas",
+		"Obuolys",
+		"Spragesiai",
+		"Avokadas",
+		"Uogos/Vaisius",
+		"Morka",
+		"Kiausinis",
+		"Krekeriai",
+		"Pupeles",
+		"Dziovinti vaisiai"
+	],
+	"lunch": [
+		"Salotos",
+		"sriuba",
+		"Rudi ryziai"
+	]
+}

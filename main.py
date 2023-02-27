@@ -1,1 +1,2 @@
-print("eika nx")
+print("ne")
+print("adios")
